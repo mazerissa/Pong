@@ -1,0 +1,6 @@
+# Ignore virtual environments and IDE settings
+.venv/
+.idea/
+__pycache__/
+*.pyc
+pyvenv.cfg
